@@ -1,0 +1,58 @@
+nav {
+    align-items: center;
+    background-color: var(--primary-bg-color);
+    box-shadow: 1px 1px 3px 0 var(--primary-bg-color-dark);
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+
+    .logo {
+        height: 64px;
+        margin-left: 8px;
+
+        button {
+            background-color: transparent;
+            border: none;
+            height: 100%;
+            width: 100%;
+
+            img {
+                height: 100%;
+            }
+
+            &:hover {
+                cursor: pointer;
+            }
+        }
+    }
+
+    .navbar {
+        align-items: center;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        height: 50px;
+        margin: 0;
+        padding: 0;
+        width: 90%;
+
+        button {
+            background-color: var(--primary-bg-color);
+            border: none;
+            border-radius: 18px;
+            color: #fff;
+            font-size: 16px;
+            height: 36px;
+            margin: 0 10px;
+            padding: 10px 0;
+            transition: .2s;
+            width: 170px;
+
+            &:hover {
+                background-color: var(--primary-bg-color-dark);
+                color: rgb(255, 255, 255);
+                cursor: pointer;
+            }
+        }
+    }
+}

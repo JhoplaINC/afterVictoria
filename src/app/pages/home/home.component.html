@@ -1,0 +1,45 @@
+<app-header></app-header>
+
+<div class="index-section">
+    <swiper-container appSwiperDirective [config]="config" class="container">
+        <swiper-slide class="single-item">
+            <img src="./assets/images/index_bg.png" alt="Logo">
+        </swiper-slide>
+
+        <swiper-slide class="single-item">
+            <img src="./assets/images/patio_auditorio1.jpg" alt="Logo">
+        </swiper-slide>
+
+        <swiper-slide class="single-item">
+            <img src="./assets/images/sala_de_arte.jpg" alt="Logo">
+        </swiper-slide>
+
+        <swiper-slide class="single-item">
+            <img src="./assets/images/sala_de_lectura.jpg" alt="Logo">
+        </swiper-slide>
+    </swiper-container>
+</div>
+
+<div class="section-container">
+    
+    <div class="index-subsection">
+        <h2 routerLink="/sobre-nosotros">¿Quiénes somos?</h2>
+        <p>
+            After School Victoria, forma parte de la Comuna de Alto Hospicio y nos complace ofrecer
+            nuestros servicios en educación y cuidado infantil de calidad para empresas y familias que trabajan.
+        </p>
+    </div>
+    
+    <div class="index-subsection">
+        <h2 routerLink="/nuestros-servicios">Nuestros servicios</h2>
+        <p>
+            Contamos con profesionales altamente calificados y capacitados, con alto grado de vocación, motivación y cariño
+            incondicional por los niños, queremos entregar un servicio que permita a los padres, realizarse
+            profesionalmente y participar en forma activa del crecimiento de sus hijos;
+            a los niños, desarrollarse con cariño en un ambiente educativo, seguro y de alta calidad,
+            y a las empresas, implementar soluciones innovadoras que mejoren la calidad de vida de sus trabajadores.
+        </p>
+    </div>
+</div>
+
+<app-footer></app-footer>

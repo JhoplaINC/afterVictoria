@@ -1,0 +1,101 @@
+<app-header></app-header>
+
+<div class="section-container">
+    <div class="services-section">
+        <h1 class="section-title">Nuestros servicios</h1>
+        <div class="description-container">
+            <p class="description-text">
+                Contamos con profesionales altamente calificados y capacitados, con alto grado de vocación, motivación y
+                cariño
+                incondicional por los niños, queremos entregar un servicio que permita a los padres, realizarse
+                profesionalmente y participar en
+                forma activa del crecimiento de sus hijos; a los niños, desarrollarse con cariño en un ambiente educativo,
+                seguro y
+                de alta calidad, y a las empresas, implementar soluciones innovadoras que mejoren la calidad de vida de sus
+                trabajadores.
+            </p>
+            <div class="slider-container">
+                <swiper-container appSwiperDirective [config]="config" class="container">
+                    <swiper-slide class="single-item">
+                        <img src="./assets/images/patio_auditorio1.jpg" alt="Logo">
+                    </swiper-slide>
+                    <swiper-slide class="single-item">
+                        <img src="./assets/images/sala_de_arte.jpg" alt="Logo">
+                    </swiper-slide>
+    
+                    <swiper-slide class="single-item">
+                        <img src="./assets/images/sala_de_cine1.jpg" alt="Logo">
+                    </swiper-slide>
+                </swiper-container>
+            </div>
+        </div>
+        <div class="description-container">
+            <p class="description-text">
+                Estudios internacionales aseguran que, invertir en educación en las primeras edades, particularmente durante
+                los primeros 6 años de vida, es invertir en el país, debido al gran impacto que ésta tiene en la vida de las
+                personas.
+            </p>
+            <div class="slider-container">
+                <swiper-container appSwiperDirective [config]="config" class="container">
+                    <swiper-slide class="single-item">
+                        <img src="./assets/images/sala_de_comer1.jpg" alt="Logo">
+                    </swiper-slide>
+                    <swiper-slide class="single-item">
+                        <img src="./assets/images/sala_de_dormir1.jpg" alt="Logo">
+                    </swiper-slide>
+    
+                    <swiper-slide class="single-item">
+                        <img src="./assets/images/sala_de_juegos1.jpg" alt="Logo">
+                    </swiper-slide>
+                </swiper-container>
+            </div>
+        </div>
+        <h2 class="section-subtitle">Modalidades de Pago</h2>
+        <div class="description-container">
+            <p class="description-text-half">
+                <b>Matricula:</b> El valor por concepto de inscripción anual es de $180.000 que deberá ser cancelado en
+                efectivo o transferencia al momento de matricular.
+            </p>
+            <p class="description-text-half">
+                <b>Mensualidad:</b> Se debe cancelar en efectivo o mediante transferencia hasta el día 5 (CINCO) de cada
+                mes. A continuación, se detallan las jornadas y valores.
+            </p>
+            <table class="payment-table">
+                <thead>
+                    <tr>
+                        <th>Jornadas (Lunes a Viernes)</th>
+                        <th>Horario</th>
+                        <th>Valor</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Media jornada mañana</td>
+                        <td>07:30 a 13:00 Hrs.</td>
+                        <td>150.000</td>
+                    </tr>
+                    <tr>
+                        <td>Media jornada tarde</td>
+                        <td>13:00 a 18:30 Hrs.</td>
+                        <td>150.000</td>
+                    </tr>
+                    <tr>
+                        <td>Jornada completa</td>
+                        <td>07:30 a 18:30 Hrs.</td>
+                        <td>280.000</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <h2 class="section-subtitle">Alimentación</h2>
+        <div class="description-container">
+            <p class="description-text">
+                El servicio de alimentación NO está incluido en el servicio, cada niño recibe una alimentación sana,
+                nutritiva y balanceada, proporcionada por sus padres, de acuerdo a las necesidades de cada etapa de
+                desarrollo. Este alimento debe ser enviado en envase térmico y será servido a la hora correspondiente
+            </p>
+        </div>
+    </div>
+</div>
+
+<app-footer></app-footer>

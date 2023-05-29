@@ -1,0 +1,32 @@
+.about-section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: justify;
+
+    .section-title {
+        width: 100%;
+        text-align: center;
+    }
+
+    .logo-container {
+        display: flex;
+        justify-content: center;
+        height: 50vh;
+        width: 100%;
+
+        img {
+            height: 100%;
+        }
+    }
+
+    .description-container {
+        margin: 0 auto 4em;
+        width: 100%;
+    }
+
+    .section-subtitle {
+        text-align: center;
+        width: 100%;
+    }
+}

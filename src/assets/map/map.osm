@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.8 (3953270 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="-20.2783900" minlon="-70.1066500" maxlat="-20.2760800" maxlon="-70.1024400"/>
+ <node id="454540566" visible="true" version="4" changeset="89346662" timestamp="2020-08-13T09:24:14Z" user="jptolosa" uid="1975220" lat="-20.2753544" lon="-70.1057050"/>
+ <node id="454540567" visible="true" version="7" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2758054" lon="-70.1041400"/>
+ <node id="454540575" visible="true" version="4" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2761142" lon="-70.1030597"/>
+ <node id="454540580" visible="true" version="5" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2764570" lon="-70.1018593"/>
+ <node id="454540668" visible="true" version="8" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2753483" lon="-70.1039854"/>
+ <node id="454540671" visible="true" version="5" changeset="89665380" timestamp="2020-08-20T05:11:35Z" user="jptolosa" uid="1975220" lat="-20.2748808" lon="-70.1038275"/>
+ <node id="454540678" visible="true" version="4" changeset="89347381" timestamp="2020-08-13T09:36:01Z" user="jptolosa" uid="1975220" lat="-20.2768384" lon="-70.1005265"/>
+ <node id="454540685" visible="true" version="7" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2756560" lon="-70.1029113"/>
+ <node id="454574057" visible="true" version="4" changeset="82585185" timestamp="2020-03-24T18:23:02Z" user="Red_Ranger" uid="7149978" lat="-20.2749888" lon="-70.1069737"/>
+ <node id="454574091" visible="true" version="6" changeset="89719778" timestamp="2020-08-21T04:17:27Z" user="jptolosa" uid="1975220" lat="-20.2759049" lon="-70.1059183"/>
+ <node id="454574119" visible="true" version="5" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2788083" lon="-70.1051552"/>
+ <node id="454574121" visible="true" version="6" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2783865" lon="-70.1050126"/>
+ <node id="454574124" visible="true" version="6" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2768477" lon="-70.1044924"/>
+ <node id="454574125" visible="true" version="6" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2763466" lon="-70.1043230"/>
+ <node id="454574313" visible="true" version="5" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2767138" lon="-70.1049391"/>
+ <node id="454574315" visible="true" version="3" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2766659" lon="-70.1050992"/>
+ <node id="454574317" visible="true" version="2" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2765503" lon="-70.1053242"/>
+ <node id="454574319" visible="true" version="2" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2763999" lon="-70.1054905"/>
+ <node id="454574372" visible="true" version="5" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2771441" lon="-70.1050972"/>
+ <node id="454574374" visible="true" version="4" changeset="89546741" timestamp="2020-08-18T04:14:54Z" user="jptolosa" uid="1975220" lat="-20.2769958" lon="-70.1054869"/>
+ <node id="454574379" visible="true" version="4" changeset="89546741" timestamp="2020-08-18T04:14:54Z" user="jptolosa" uid="1975220" lat="-20.2768616" lon="-70.1056903"/>
+ <node id="454574381" visible="true" version="5" changeset="89546741" timestamp="2020-08-18T04:14:54Z" user="jptolosa" uid="1975220" lat="-20.2761668" lon="-70.1062681"/>
+ <node id="454574389" visible="true" version="2" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2781555" lon="-70.1057580"/>
+ <node id="454574390" visible="true" version="2" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2780737" lon="-70.1059632"/>
+ <node id="454574391" visible="true" version="4" changeset="89466099" timestamp="2020-08-16T09:02:34Z" user="jptolosa" uid="1975220" lat="-20.2779872" lon="-70.1061398"/>
+ <node id="454574392" visible="true" version="3" changeset="89346203" timestamp="2020-08-13T09:16:49Z" user="jptolosa" uid="1975220" lat="-20.2789542" lon="-70.1046905"/>
+ <node id="454574401" visible="true" version="5" changeset="89466099" timestamp="2020-08-16T09:02:34Z" user="jptolosa" uid="1975220" lat="-20.2783698" lon="-70.1063768"/>
+ <node id="454574407" visible="true" version="3" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2781582" lon="-70.1066971"/>
+ <node id="454574409" visible="true" version="3" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2780567" lon="-70.1068142"/>
+ <node id="454574411" visible="true" version="4" changeset="89545844" timestamp="2020-08-18T03:51:00Z" user="jptolosa" uid="1975220" lat="-20.2777515" lon="-70.1070843"/>
+ <node id="454574413" visible="true" version="6" changeset="89545844" timestamp="2020-08-18T03:51:00Z" user="jptolosa" uid="1975220" lat="-20.2774332" lon="-70.1073352"/>
+ <node id="454574415" visible="true" version="3" changeset="89346203" timestamp="2020-08-13T09:16:49Z" user="jptolosa" uid="1975220" lat="-20.2770807" lon="-70.1076131"/>
+ <node id="454574422" visible="true" version="3" changeset="89466099" timestamp="2020-08-16T09:02:34Z" user="jptolosa" uid="1975220" lat="-20.2779079" lon="-70.1060908"/>
+ <node id="454574431" visible="true" version="4" changeset="89346203" timestamp="2020-08-13T09:16:49Z" user="jptolosa" uid="1975220" lat="-20.2773322" lon="-70.1079836"/>
+ <node id="454574485" visible="true" version="5" changeset="89466099" timestamp="2020-08-16T09:02:34Z" user="jptolosa" uid="1975220" lat="-20.2771225" lon="-70.1068831"/>
+ <node id="454574493" visible="true" version="3" changeset="89466099" timestamp="2020-08-16T09:02:34Z" user="jptolosa" uid="1975220" lat="-20.2774597" lon="-70.1066273"/>
+ <node id="454574508" visible="true" version="2" changeset="89466099" timestamp="2020-08-16T09:02:34Z" user="jptolosa" uid="1975220" lat="-20.2777385" lon="-70.1063414"/>
+ <node id="454574513" visible="true" version="3" changeset="89466099" timestamp="2020-08-16T09:02:34Z" user="jptolosa" uid="1975220" lat="-20.2775648" lon="-70.1065365"/>
+ <node id="2323800222" visible="true" version="3" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2765117" lon="-70.1067739"/>
+ <node id="2323800227" visible="true" version="3" changeset="89457810" timestamp="2020-08-15T22:01:45Z" user="jptolosa" uid="1975220" lat="-20.2796525" lon="-70.1033923"/>
+ <node id="2323800235" visible="true" version="6" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2774510" lon="-70.0991265"/>
+ <node id="2323800239" visible="true" version="4" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2775281" lon="-70.0986439"/>
+ <node id="2323800249" visible="true" version="5" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2758965" lon="-70.1041708"/>
+ <node id="2323800250" visible="true" version="5" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2777906" lon="-70.1048111"/>
+ <node id="2323800251" visible="true" version="2" changeset="89346203" timestamp="2020-08-13T09:16:49Z" user="jptolosa" uid="1975220" lat="-20.2777332" lon="-70.1085742"/>
+ <node id="2323800255" visible="true" version="3" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2785220" lon="-70.1060393"/>
+ <node id="2323800257" visible="true" version="2" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2786617" lon="-70.1056078"/>
+ <node id="2323800263" visible="true" version="3" changeset="89466099" timestamp="2020-08-16T09:02:34Z" user="jptolosa" uid="1975220" lat="-20.2775271" lon="-70.1058549"/>
+ <node id="2323800267" visible="true" version="4" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2771747" lon="-70.1034014"/>
+ <node id="2323800268" visible="true" version="2" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2762307" lon="-70.1069315"/>
+ <node id="2323800288" visible="true" version="3" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2772667" lon="-70.1061831"/>
+ <node id="2323800290" visible="true" version="3" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2765549" lon="-70.1018898"/>
+ <node id="2323800293" visible="true" version="2" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2791751" lon="-70.1039737"/>
+ <node id="2323800297" visible="true" version="2" changeset="89347381" timestamp="2020-08-13T09:36:01Z" user="jptolosa" uid="1975220" lat="-20.2768050" lon="-70.1009884"/>
+ <node id="2323800301" visible="true" version="4" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2792206" lon="-70.1052946"/>
+ <node id="2323800306" visible="true" version="2" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2763786" lon="-70.1068597"/>
+ <node id="2323800308" visible="true" version="2" changeset="89346203" timestamp="2020-08-13T09:16:49Z" user="jptolosa" uid="1975220" lat="-20.2776778" lon="-70.1084926"/>
+ <node id="2323800313" visible="true" version="3" changeset="82585185" timestamp="2020-03-24T18:23:02Z" user="Red_Ranger" uid="7149978" lat="-20.2750820" lon="-70.1070042"/>
+ <node id="2323800316" visible="true" version="3" changeset="89466099" timestamp="2020-08-16T09:02:34Z" user="jptolosa" uid="1975220" lat="-20.2788046" lon="-70.1067672"/>
+ <node id="2323800324" visible="true" version="4" changeset="89460376" timestamp="2020-08-16T01:45:07Z" user="jptolosa" uid="1975220" lat="-20.2786515" lon="-70.1023235"/>
+ <node id="2323800330" visible="true" version="4" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2771875" lon="-70.1061168"/>
+ <node id="2323800335" visible="true" version="3" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2780279" lon="-70.1043742"/>
+ <node id="2323800336" visible="true" version="4" changeset="89556578" timestamp="2020-08-18T07:15:51Z" user="jptolosa" uid="1975220" lat="-20.2753510" lon="-70.1071574"/>
+ <node id="2323800337" visible="true" version="3" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2762049" lon="-70.1031028"/>
+ <node id="2323800338" visible="true" version="3" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2775361" lon="-70.1021958"/>
+ <node id="2323800344" visible="true" version="3" changeset="82585185" timestamp="2020-03-24T18:23:02Z" user="Red_Ranger" uid="7149978" lat="-20.2750513" lon="-70.1071150"/>
+ <node id="2323800348" visible="true" version="2" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2774057" lon="-70.1060383"/>
+ <node id="2323800349" visible="true" version="4" changeset="89556578" timestamp="2020-08-18T07:15:51Z" user="jptolosa" uid="1975220" lat="-20.2751906" lon="-70.1071474"/>
+ <node id="2323800354" visible="true" version="4" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2776424" lon="-70.1052804"/>
+ <node id="2323800357" visible="true" version="2" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2792587" lon="-70.1036967"/>
+ <node id="2323800360" visible="true" version="3" changeset="89460376" timestamp="2020-08-16T01:45:07Z" user="jptolosa" uid="1975220" lat="-20.2785395" lon="-70.1023463"/>
+ <node id="2323800363" visible="true" version="2" changeset="89347381" timestamp="2020-08-13T09:36:01Z" user="jptolosa" uid="1975220" lat="-20.2768956" lon="-70.1003498"/>
+ <node id="2323800364" visible="true" version="4" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2761439" lon="-70.1068456"/>
+ <node id="2323800368" visible="true" version="3" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2753313" lon="-70.1070535"/>
+ <node id="2323800370" visible="true" version="3" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2764506" lon="-70.1066875"/>
+ <node id="2323800378" visible="true" version="3" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2768601" lon="-70.1065013"/>
+ <node id="2323800383" visible="true" version="5" changeset="89460376" timestamp="2020-08-16T01:45:07Z" user="jptolosa" uid="1975220" lat="-20.2797755" lon="-70.1054821"/>
+ <node id="2323800386" visible="true" version="4" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2778856" lon="-70.1048432"/>
+ <node id="2323800391" visible="true" version="3" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2783322" lon="-70.1064438"/>
+ <node id="2323800395" visible="true" version="4" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2775603" lon="-70.0985589"/>
+ <node id="2323800398" visible="true" version="5" changeset="89461354" timestamp="2020-08-16T03:40:03Z" user="jptolosa" uid="1975220" lat="-20.2798734" lon="-70.1055152"/>
+ <node id="2323800399" visible="true" version="3" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2769896" lon="-70.1003843"/>
+ <node id="2323800407" visible="true" version="2" changeset="70392333" timestamp="2019-05-18T17:10:48Z" user="Awo" uid="196556" lat="-20.2774567" lon="-70.1057795"/>
+ <node id="2323800409" visible="true" version="2" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2794374" lon="-70.1034869"/>
+ <node id="2323800415" visible="true" version="3" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2773353" lon="-70.1059699"/>
+ <node id="2324301066" visible="true" version="4" changeset="89460376" timestamp="2020-08-16T01:45:07Z" user="jptolosa" uid="1975220" lat="-20.2780557" lon="-70.1039385"/>
+ <node id="2324301067" visible="true" version="3" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2782585" lon="-70.1036142"/>
+ <node id="2324301069" visible="true" version="3" changeset="89378792" timestamp="2020-08-13T23:38:10Z" user="jptolosa" uid="1975220" lat="-20.2760393" lon="-70.1053878"/>
+ <node id="2324301071" visible="true" version="5" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220" lat="-20.2779349" lon="-70.1043361"/>
+ <node id="2324301072" visible="true" version="3" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2772195" lon="-70.1032520"/>
+ <node id="2324301074" visible="true" version="3" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220" lat="-20.2777337" lon="-70.1034379"/>
+ <node id="2324301075" visible="true" version="4" changeset="89719778" timestamp="2020-08-21T04:17:27Z" user="jptolosa" uid="1975220" lat="-20.2763048" lon="-70.1055669"/>
+ <node id="2324301078" visible="true" version="2" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2771455" lon="-70.1015521"/>
+ <node id="2324301087" visible="true" version="4" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2764374" lon="-70.1043537"/>
+ <node id="2324301088" visible="true" version="2" changeset="89346203" timestamp="2020-08-13T09:16:49Z" user="jptolosa" uid="1975220" lat="-20.2779172" lon="-70.1028442"/>
+ <node id="2324301089" visible="true" version="4" changeset="89378792" timestamp="2020-08-13T23:38:10Z" user="jptolosa" uid="1975220" lat="-20.2772953" lon="-70.0995317"/>
+ <node id="2324301094" visible="true" version="4" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2755852" lon="-70.1052537"/>
+ <node id="2324301099" visible="true" version="3" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2766494" lon="-70.1032397"/>
+ <node id="2324301101" visible="true" version="2" changeset="89346203" timestamp="2020-08-13T09:16:49Z" user="jptolosa" uid="1975220" lat="-20.2775302" lon="-70.1037505"/>
+ <node id="2324301103" visible="true" version="3" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2774630" lon="-70.1009914"/>
+ <node id="2324301104" visible="true" version="3" changeset="89378792" timestamp="2020-08-13T23:38:10Z" user="jptolosa" uid="1975220" lat="-20.2771390" lon="-70.0999429"/>
+ <node id="2324301107" visible="true" version="4" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2770049" lon="-70.1020302"/>
+ <node id="2324301109" visible="true" version="3" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2767897" lon="-70.1027625"/>
+ <node id="2324301111" visible="true" version="3" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2773967" lon="-70.1026609"/>
+ <node id="2324301112" visible="true" version="2" changeset="89346203" timestamp="2020-08-13T09:16:49Z" user="jptolosa" uid="1975220" lat="-20.2787739" lon="-70.1037904"/>
+ <node id="2324301113" visible="true" version="4" changeset="89460376" timestamp="2020-08-16T01:45:07Z" user="jptolosa" uid="1975220" lat="-20.2781609" lon="-70.1035923"/>
+ <node id="2324301114" visible="true" version="2" changeset="89346203" timestamp="2020-08-13T09:16:49Z" user="jptolosa" uid="1975220" lat="-20.2786618" lon="-70.1041423"/>
+ <node id="2324301118" visible="true" version="3" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220" lat="-20.2776357" lon="-70.1034025"/>
+ <node id="2324301119" visible="true" version="3" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2781532" lon="-70.1039611"/>
+ <node id="2324301121" visible="true" version="2" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2772837" lon="-70.1010823"/>
+ <node id="2324301123" visible="true" version="3" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2773148" lon="-70.1029343"/>
+ <node id="2324301126" visible="true" version="3" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2767632" lon="-70.1032747"/>
+ <node id="2324301127" visible="true" version="2" changeset="89346203" timestamp="2020-08-13T09:16:49Z" user="jptolosa" uid="1975220" lat="-20.2790795" lon="-70.1042911"/>
+ <node id="2324301128" visible="true" version="2" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2785145" lon="-70.1027705"/>
+ <node id="2324301130" visible="true" version="4" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2772626" lon="-70.1046326"/>
+ <node id="2324301131" visible="true" version="2" changeset="89346203" timestamp="2020-08-13T09:16:49Z" user="jptolosa" uid="1975220" lat="-20.2774068" lon="-70.1041572"/>
+ <node id="2324301132" visible="true" version="2" changeset="89346203" timestamp="2020-08-13T09:16:49Z" user="jptolosa" uid="1975220" lat="-20.2780660" lon="-70.1023611"/>
+ <node id="2324339773" visible="true" version="2" changeset="65646695" timestamp="2018-12-20T17:06:15Z" user="Admasawi" uid="8792857" lat="-20.2755671" lon="-70.1070160"/>
+ <node id="2324339787" visible="true" version="3" changeset="89556578" timestamp="2020-08-18T07:15:51Z" user="jptolosa" uid="1975220" lat="-20.2754284" lon="-70.1071514"/>
+ <node id="2324339803" visible="true" version="2" changeset="89347381" timestamp="2020-08-13T09:36:01Z" user="jptolosa" uid="1975220" lat="-20.2766415" lon="-70.1011925"/>
+ <node id="2324339811" visible="true" version="4" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2767722" lon="-70.1071581"/>
+ <node id="2324339813" visible="true" version="3" changeset="89346203" timestamp="2020-08-13T09:16:49Z" user="jptolosa" uid="1975220" lat="-20.2774065" lon="-70.1080931"/>
+ <node id="4927315548" visible="true" version="2" changeset="61938307" timestamp="2018-08-24T03:30:42Z" user="ravmn" uid="4123703" lat="-20.2776502" lon="-70.1035020"/>
+ <node id="4927315549" visible="true" version="2" changeset="61938307" timestamp="2018-08-24T03:30:42Z" user="ravmn" uid="4123703" lat="-20.2780687" lon="-70.1036388"/>
+ <node id="4927315550" visible="true" version="2" changeset="61938307" timestamp="2018-08-24T03:30:42Z" user="ravmn" uid="4123703" lat="-20.2779982" lon="-70.1038841"/>
+ <node id="4927315551" visible="true" version="2" changeset="61938307" timestamp="2018-08-24T03:30:42Z" user="ravmn" uid="4123703" lat="-20.2775797" lon="-70.1037473"/>
+ <node id="5406011432" visible="true" version="1" changeset="56273932" timestamp="2018-02-11T20:36:07Z" user="patodiez" uid="1856060" lat="-20.2763026" lon="-70.1067778"/>
+ <node id="5406011437" visible="true" version="2" changeset="81475686" timestamp="2020-02-25T23:47:41Z" user="Awo" uid="196556" lat="-20.2769039" lon="-70.1057013"/>
+ <node id="5406011438" visible="true" version="2" changeset="81475686" timestamp="2020-02-25T23:47:41Z" user="Awo" uid="196556" lat="-20.2770138" lon="-70.1055255"/>
+ <node id="5406011439" visible="true" version="2" changeset="81475686" timestamp="2020-02-25T23:47:41Z" user="Awo" uid="196556" lat="-20.2774051" lon="-70.1057777"/>
+ <node id="5406011440" visible="true" version="2" changeset="81475686" timestamp="2020-02-25T23:47:41Z" user="Awo" uid="196556" lat="-20.2773058" lon="-70.1059184"/>
+ <node id="5406011441" visible="true" version="2" changeset="81475686" timestamp="2020-02-25T23:47:41Z" user="Awo" uid="196556" lat="-20.2771778" lon="-70.1060530"/>
+ <node id="5406011445" visible="true" version="4" changeset="89556578" timestamp="2020-08-18T07:15:51Z" user="jptolosa" uid="1975220" lat="-20.2752714" lon="-70.1071562"/>
+ <node id="5849965685" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:07Z" user="ravmn" uid="4123703" lat="-20.2762889" lon="-70.1038380"/>
+ <node id="5849965686" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:07Z" user="ravmn" uid="4123703" lat="-20.2761465" lon="-70.1037868"/>
+ <node id="5849965687" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:07Z" user="ravmn" uid="4123703" lat="-20.2760541" lon="-70.1040783"/>
+ <node id="5849965688" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:07Z" user="ravmn" uid="4123703" lat="-20.2761965" lon="-70.1041296"/>
+ <node id="5849965689" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:07Z" user="ravmn" uid="4123703" lat="-20.2763248" lon="-70.1033887"/>
+ <node id="5849965690" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:07Z" user="ravmn" uid="4123703" lat="-20.2763589" lon="-70.1032620"/>
+ <node id="5849965691" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:07Z" user="ravmn" uid="4123703" lat="-20.2762853" lon="-70.1032394"/>
+ <node id="5849965692" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:07Z" user="ravmn" uid="4123703" lat="-20.2762512" lon="-70.1033662"/>
+ <node id="5849965693" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:07Z" user="ravmn" uid="4123703" lat="-20.2762497" lon="-70.1066251"/>
+ <node id="5849965694" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:07Z" user="ravmn" uid="4123703" lat="-20.2760874" lon="-70.1063724"/>
+ <node id="5849965695" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:07Z" user="ravmn" uid="4123703" lat="-20.2759529" lon="-70.1064705"/>
+ <node id="5849965696" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:07Z" user="ravmn" uid="4123703" lat="-20.2761153" lon="-70.1067233"/>
+ <node id="5852845746" visible="true" version="1" changeset="61938307" timestamp="2018-08-24T03:30:25Z" user="ravmn" uid="4123703" lat="-20.2762977" lon="-70.1038010"/>
+ <node id="5852845747" visible="true" version="1" changeset="61938307" timestamp="2018-08-24T03:30:25Z" user="ravmn" uid="4123703" lat="-20.2764502" lon="-70.1032311"/>
+ <node id="5852845748" visible="true" version="1" changeset="61938307" timestamp="2018-08-24T03:30:25Z" user="ravmn" uid="4123703" lat="-20.2762480" lon="-70.1031696"/>
+ <node id="5852845749" visible="true" version="1" changeset="61938307" timestamp="2018-08-24T03:30:25Z" user="ravmn" uid="4123703" lat="-20.2760955" lon="-70.1037395"/>
+ <node id="7243648132" visible="true" version="1" changeset="81475686" timestamp="2020-02-25T23:47:41Z" user="Awo" uid="196556" lat="-20.2769916" lon="-70.1055313"/>
+ <node id="7243648133" visible="true" version="1" changeset="81475686" timestamp="2020-02-25T23:47:41Z" user="Awo" uid="196556" lat="-20.2769109" lon="-70.1056557"/>
+ <node id="7326288694" visible="true" version="1" changeset="82585185" timestamp="2020-03-24T18:23:02Z" user="Red_Ranger" uid="7149978" lat="-20.2755248" lon="-70.1071340"/>
+ <node id="7667977068" visible="true" version="1" changeset="87315417" timestamp="2020-06-29T22:14:56Z" user="Reeniz" uid="10044593" lat="-20.2782487" lon="-70.1038497">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="La Pampa / Salitrera Sacramento"/>
+ </node>
+ <node id="7667977076" visible="true" version="1" changeset="87315417" timestamp="2020-06-29T22:14:56Z" user="Reeniz" uid="10044593" lat="-20.2773253" lon="-70.1061918">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="La Pampa / Magdalena"/>
+ </node>
+ <node id="7667977212" visible="true" version="1" changeset="87315417" timestamp="2020-06-29T22:14:56Z" user="Reeniz" uid="10044593" lat="-20.2772116" lon="-70.1059952">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="La Pampa / Magdalena"/>
+ </node>
+ <node id="7667977231" visible="true" version="1" changeset="87315417" timestamp="2020-06-29T22:14:56Z" user="Reeniz" uid="10044593" lat="-20.2780427" lon="-70.1037838">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="La Pampa / Salitrera Sacramento"/>
+ </node>
+ <node id="7809508763" visible="true" version="1" changeset="89347381" timestamp="2020-08-13T09:36:01Z" user="jptolosa" uid="1975220" lat="-20.2767667" lon="-70.1007590"/>
+ <node id="7809508764" visible="true" version="1" changeset="89347381" timestamp="2020-08-13T09:36:01Z" user="jptolosa" uid="1975220" lat="-20.2767069" lon="-70.1009555"/>
+ <node id="7809508765" visible="true" version="1" changeset="89347381" timestamp="2020-08-13T09:36:01Z" user="jptolosa" uid="1975220" lat="-20.2768918" lon="-70.1006927"/>
+ <node id="7811116433" visible="true" version="1" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2775617" lon="-70.1055361"/>
+ <node id="7811116434" visible="true" version="1" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2775331" lon="-70.1056165"/>
+ <node id="7811116435" visible="true" version="1" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2775020" lon="-70.1056916"/>
+ <node id="7811116436" visible="true" version="1" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2775667" lon="-70.1057721"/>
+ <node id="7811116437" visible="true" version="1" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2776139" lon="-70.1056601"/>
+ <node id="7811116438" visible="true" version="1" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2774885" lon="-70.1059215"/>
+ <node id="7811116439" visible="true" version="1" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2774488" lon="-70.1059813"/>
+ <node id="7811116440" visible="true" version="1" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2773392" lon="-70.1061140"/>
+ <node id="7811116441" visible="true" version="1" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2772400" lon="-70.1060716"/>
+ <node id="7811116442" visible="true" version="1" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2772893" lon="-70.1060226"/>
+ <node id="7811116443" visible="true" version="1" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2773803" lon="-70.1059098"/>
+ <node id="7811116444" visible="true" version="1" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2774209" lon="-70.1058462"/>
+ <node id="7811116451" visible="true" version="1" changeset="89378031" timestamp="2020-08-13T22:48:22Z" user="jptolosa" uid="1975220" lat="-20.2770541" lon="-70.1001810"/>
+ <node id="7816246628" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2769717" lon="-70.1001213"/>
+ <node id="7816246629" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2770434" lon="-70.0999222"/>
+ <node id="7816246666" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2778655" lon="-70.1069938"/>
+ <node id="7816246667" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2784864" lon="-70.1061289"/>
+ <node id="7816246668" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2779591" lon="-70.1069114"/>
+ <node id="7816246669" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2782545" lon="-70.1065670"/>
+ <node id="7816246670" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2784433" lon="-70.1062250"/>
+ <node id="7816246671" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2792773" lon="-70.1036455"/>
+ <node id="7816246672" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2793038" lon="-70.1035983"/>
+ <node id="7816246673" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2793677" lon="-70.1035287"/>
+ <node id="7816246674" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2794012" lon="-70.1035053"/>
+ <node id="7816246675" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2793373" lon="-70.1035566"/>
+ <node id="7816246676" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2780304" lon="-70.1060556"/>
+ <node id="7816246677" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2781166" lon="-70.1058615"/>
+ <node id="7816287291" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2762244" lon="-70.1068147"/>
+ <node id="7816287292" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2763781" lon="-70.1067354"/>
+ <node id="7816287293" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2761483" lon="-70.1069617"/>
+ <node id="7816287294" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2764463" lon="-70.1068188"/>
+ <node id="7816287295" visible="true" version="1" changeset="89457671" timestamp="2020-08-15T21:50:47Z" user="jptolosa" uid="1975220" lat="-20.2763057" lon="-70.1068980"/>
+ <node id="7816455644" visible="true" version="1" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2764544" lon="-70.1054396"/>
+ <node id="7816455645" visible="true" version="1" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2765046" lon="-70.1053840"/>
+ <node id="7816455646" visible="true" version="1" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2765953" lon="-70.1052531"/>
+ <node id="7816455647" visible="true" version="1" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2766340" lon="-70.1051779"/>
+ <node id="7816455659" visible="true" version="3" changeset="110195814" timestamp="2021-08-24T22:10:10Z" user="jptolosa" uid="1975220" lat="-20.2751363" lon="-70.1070227">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7816455660" visible="true" version="1" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2752047" lon="-70.1070402"/>
+ <node id="7816455661" visible="true" version="1" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2752677" lon="-70.1070498"/>
+ <node id="7816455662" visible="true" version="1" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2754110" lon="-70.1070500"/>
+ <node id="7816455663" visible="true" version="1" changeset="89459768" timestamp="2020-08-16T01:01:52Z" user="jptolosa" uid="1975220" lat="-20.2754899" lon="-70.1070375"/>
+ <node id="7816504170" visible="true" version="1" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2774783" lon="-70.0990553"/>
+ <node id="7816504172" visible="true" version="1" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2772956" lon="-70.1010556"/>
+ <node id="7816504173" visible="true" version="1" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2773353" lon="-70.1010208"/>
+ <node id="7816504174" visible="true" version="1" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2773585" lon="-70.1010139"/>
+ <node id="7816504175" visible="true" version="1" changeset="89460954" timestamp="2020-08-16T02:54:23Z" user="jptolosa" uid="1975220" lat="-20.2773145" lon="-70.1010340"/>
+ <node id="7816558684" visible="true" version="1" changeset="89461789" timestamp="2020-08-16T04:21:07Z" user="jptolosa" uid="1975220" lat="-20.2775122" lon="-70.0986859">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7816878933" visible="true" version="1" changeset="89466099" timestamp="2020-08-16T09:02:34Z" user="jptolosa" uid="1975220" lat="-20.2775111" lon="-70.1065848"/>
+ <node id="7816878934" visible="true" version="1" changeset="89466099" timestamp="2020-08-16T09:02:34Z" user="jptolosa" uid="1975220" lat="-20.2776545" lon="-70.1064419"/>
+ <node id="7816878935" visible="true" version="1" changeset="89466099" timestamp="2020-08-16T09:02:34Z" user="jptolosa" uid="1975220" lat="-20.2777987" lon="-70.1062608"/>
+ <node id="7816878936" visible="true" version="1" changeset="89466099" timestamp="2020-08-16T09:02:34Z" user="jptolosa" uid="1975220" lat="-20.2778552" lon="-70.1061772"/>
+ <node id="7821574047" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2753719" lon="-70.1056444">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574048" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2753417" lon="-70.1057490">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574055" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2751027" lon="-70.1071289">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574059" visible="true" version="2" changeset="110195814" timestamp="2021-08-24T22:10:10Z" user="jptolosa" uid="1975220" lat="-20.2750038" lon="-70.1069215">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574061" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2751168" lon="-70.1071326"/>
+ <node id="7821574062" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2764216" lon="-70.1066446">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574063" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2764870" lon="-70.1066593">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574064" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2765464" lon="-70.1067467">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574065" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2765387" lon="-70.1068137">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574066" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2764684" lon="-70.1068036">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574067" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2764089" lon="-70.1067151">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574068" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2778653" lon="-70.1049043">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574069" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2777705" lon="-70.1048749">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574070" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2779069" lon="-70.1047729">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574071" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2778115" lon="-70.1047422">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574072" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2777427" lon="-70.1047949">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821574073" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220" lat="-20.2779280" lon="-70.1048575">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821597569" visible="true" version="1" changeset="89546741" timestamp="2020-08-18T04:14:54Z" user="jptolosa" uid="1975220" lat="-20.2770239" lon="-70.1054247"/>
+ <node id="7821597570" visible="true" version="1" changeset="89546741" timestamp="2020-08-18T04:14:54Z" user="jptolosa" uid="1975220" lat="-20.2768133" lon="-70.1057444"/>
+ <node id="7821597571" visible="true" version="1" changeset="89546741" timestamp="2020-08-18T04:14:54Z" user="jptolosa" uid="1975220" lat="-20.2769111" lon="-70.1056261"/>
+ <node id="7821597572" visible="true" version="1" changeset="89546741" timestamp="2020-08-18T04:14:54Z" user="jptolosa" uid="1975220" lat="-20.2769559" lon="-70.1055582"/>
+ <node id="7821597573" visible="true" version="1" changeset="89546741" timestamp="2020-08-18T04:14:54Z" user="jptolosa" uid="1975220" lat="-20.2767616" lon="-70.1057949"/>
+ <node id="7821597574" visible="true" version="1" changeset="89546741" timestamp="2020-08-18T04:14:54Z" user="jptolosa" uid="1975220" lat="-20.2787754" lon="-70.1052568">
+  <tag k="direction" v="backward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="7821597575" visible="true" version="1" changeset="89546741" timestamp="2020-08-18T04:14:54Z" user="jptolosa" uid="1975220" lat="-20.2788405" lon="-70.1050526">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="7821597576" visible="true" version="1" changeset="89546741" timestamp="2020-08-18T04:14:54Z" user="jptolosa" uid="1975220" lat="-20.2788313" lon="-70.1050820">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821597577" visible="true" version="1" changeset="89546741" timestamp="2020-08-18T04:14:54Z" user="jptolosa" uid="1975220" lat="-20.2787857" lon="-70.1052249">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821597578" visible="true" version="1" changeset="89546741" timestamp="2020-08-18T04:14:54Z" user="jptolosa" uid="1975220" lat="-20.2787619" lon="-70.1051395">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821597579" visible="true" version="1" changeset="89546741" timestamp="2020-08-18T04:14:54Z" user="jptolosa" uid="1975220" lat="-20.2788531" lon="-70.1051704">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821610230" visible="true" version="1" changeset="89545844" timestamp="2020-08-18T03:51:00Z" user="jptolosa" uid="1975220" lat="-20.2786286" lon="-70.1023983">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821610231" visible="true" version="1" changeset="89545844" timestamp="2020-08-18T03:51:00Z" user="jptolosa" uid="1975220" lat="-20.2785164" lon="-70.1024222">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821656172" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2756168" lon="-70.1070013"/>
+ <node id="7821656175" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2759647" lon="-70.1059756"/>
+ <node id="7821656176" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2759322" lon="-70.1059418"/>
+ <node id="7821656179" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2759939" lon="-70.1060127"/>
+ <node id="7821659690" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2753023" lon="-70.1039699">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659691" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2753932" lon="-70.1040006">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659692" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2757356" lon="-70.1041164">
+  <tag k="direction" v="backward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="7821659693" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2759876" lon="-70.1042016">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="7821659694" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2757634" lon="-70.1041258">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659695" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2759453" lon="-70.1041873">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659696" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2758236" lon="-70.1040763">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659697" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2759151" lon="-70.1041063">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659699" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2757860" lon="-70.1042075">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659718" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2770046" lon="-70.1003369">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659719" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2769113" lon="-70.1003026">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659720" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2768824" lon="-70.1003905">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659721" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2769761" lon="-70.1004269">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659726" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2765347" lon="-70.1019598">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659727" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2764368" lon="-70.1019302">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659728" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2764740" lon="-70.1017980">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659729" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2765716" lon="-70.1018297">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821659734" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2797013" lon="-70.1054570">
+  <tag k="direction" v="backward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="7821659735" visible="true" version="1" changeset="89546567" timestamp="2020-08-18T04:10:34Z" user="jptolosa" uid="1975220" lat="-20.2797336" lon="-70.1054679">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7821695760" visible="true" version="1" changeset="89547871" timestamp="2020-08-18T04:38:36Z" user="jptolosa" uid="1975220" lat="-20.2777124" lon="-70.1047847">
+  <tag k="direction" v="backward"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="7821695761" visible="true" version="1" changeset="89547871" timestamp="2020-08-18T04:38:36Z" user="jptolosa" uid="1975220" lat="-20.2779570" lon="-70.1048673">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="7822066814" visible="true" version="1" changeset="89556578" timestamp="2020-08-18T07:15:51Z" user="jptolosa" uid="1975220" lat="-20.2764014" lon="-70.1066148">
+  <tag k="direction" v="backward"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="7822066815" visible="true" version="1" changeset="89556578" timestamp="2020-08-18T07:15:51Z" user="jptolosa" uid="1975220" lat="-20.2765564" lon="-70.1068398">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="7822066816" visible="true" version="1" changeset="89556578" timestamp="2020-08-18T07:15:51Z" user="jptolosa" uid="1975220" lat="-20.2771354" lon="-70.1075700">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="7828184672" visible="true" version="1" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220" lat="-20.2770755" lon="-70.1017902">
+  <tag k="traffic_calming" v="bump"/>
+ </node>
+ <node id="7828184673" visible="true" version="1" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220" lat="-20.2772020" lon="-70.1013599">
+  <tag k="traffic_calming" v="bump"/>
+ </node>
+ <node id="7828366336" visible="true" version="1" changeset="89665380" timestamp="2020-08-20T05:11:35Z" user="jptolosa" uid="1975220" lat="-20.2749355" lon="-70.1038459">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7828366347" visible="true" version="1" changeset="89665380" timestamp="2020-08-20T05:11:35Z" user="jptolosa" uid="1975220" lat="-20.2762414" lon="-70.1055111"/>
+ <node id="7828366348" visible="true" version="1" changeset="89665380" timestamp="2020-08-20T05:11:35Z" user="jptolosa" uid="1975220" lat="-20.2761075" lon="-70.1054215"/>
+ <node id="7828366349" visible="true" version="1" changeset="89665380" timestamp="2020-08-20T05:11:35Z" user="jptolosa" uid="1975220" lat="-20.2761729" lon="-70.1054610"/>
+ <node id="7828451043" visible="true" version="1" changeset="89666771" timestamp="2020-08-20T05:39:09Z" user="jptolosa" uid="1975220" lat="-20.2768216" lon="-70.1045795">
+  <tag k="direction" v="backward"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="7828451044" visible="true" version="1" changeset="89666771" timestamp="2020-08-20T05:39:09Z" user="jptolosa" uid="1975220" lat="-20.2768737" lon="-70.1044056">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="7828451045" visible="true" version="1" changeset="89666771" timestamp="2020-08-20T05:39:09Z" user="jptolosa" uid="1975220" lat="-20.2768283" lon="-70.1045573">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7828451046" visible="true" version="1" changeset="89666771" timestamp="2020-08-20T05:39:09Z" user="jptolosa" uid="1975220" lat="-20.2768673" lon="-70.1044270">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7828451047" visible="true" version="1" changeset="89666771" timestamp="2020-08-20T05:39:09Z" user="jptolosa" uid="1975220" lat="-20.2768033" lon="-70.1044774">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7828451048" visible="true" version="1" changeset="89666771" timestamp="2020-08-20T05:39:09Z" user="jptolosa" uid="1975220" lat="-20.2768968" lon="-70.1045090">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7828451051" visible="true" version="1" changeset="89666771" timestamp="2020-08-20T05:39:09Z" user="jptolosa" uid="1975220" lat="-20.2775173" lon="-70.1022585">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7828451053" visible="true" version="1" changeset="89666771" timestamp="2020-08-20T05:39:09Z" user="jptolosa" uid="1975220" lat="-20.2775105" lon="-70.1022813">
+  <tag k="direction" v="backward"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="7831126660" visible="true" version="1" changeset="89719778" timestamp="2020-08-21T04:17:27Z" user="jptolosa" uid="1975220" lat="-20.2759214" lon="-70.1058919"/>
+ <node id="7831126661" visible="true" version="1" changeset="89719778" timestamp="2020-08-21T04:17:27Z" user="jptolosa" uid="1975220" lat="-20.2759402" lon="-70.1058673"/>
+ <node id="7831126662" visible="true" version="1" changeset="89719778" timestamp="2020-08-21T04:17:27Z" user="jptolosa" uid="1975220" lat="-20.2759798" lon="-70.1058277"/>
+ <node id="9033367116" visible="true" version="1" changeset="110195814" timestamp="2021-08-24T22:10:10Z" user="jptolosa" uid="1975220" lat="-20.2750123" lon="-70.1068921">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="9033409019" visible="true" version="1" changeset="110195814" timestamp="2021-08-24T22:10:10Z" user="jptolosa" uid="1975220" lat="-20.2751741" lon="-70.1070324">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <way id="38446822" visible="true" version="15" changeset="89717838" timestamp="2020-08-21T03:06:19Z" user="jptolosa" uid="1975220">
+  <nd ref="2323800398"/>
+  <nd ref="2323800383"/>
+  <nd ref="7821659735"/>
+  <nd ref="7821659734"/>
+  <nd ref="2323800301"/>
+  <nd ref="7821597579"/>
+  <nd ref="454574119"/>
+  <nd ref="7821597578"/>
+  <nd ref="454574121"/>
+  <nd ref="7821695761"/>
+  <nd ref="7821574073"/>
+  <nd ref="2323800386"/>
+  <nd ref="2323800250"/>
+  <nd ref="7821574072"/>
+  <nd ref="7821695760"/>
+  <nd ref="2324301130"/>
+  <nd ref="7828451048"/>
+  <nd ref="454574124"/>
+  <nd ref="7828451047"/>
+  <nd ref="2324301087"/>
+  <nd ref="454574125"/>
+  <nd ref="7821659693"/>
+  <nd ref="7821659695"/>
+  <nd ref="2323800249"/>
+  <nd ref="454540567"/>
+  <nd ref="7821659694"/>
+  <nd ref="7821659692"/>
+  <nd ref="7821659691"/>
+  <nd ref="454540668"/>
+  <nd ref="7821659690"/>
+  <nd ref="7828366336"/>
+  <nd ref="454540671"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="San Donato"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="38446829" visible="true" version="6" changeset="89665380" timestamp="2020-08-20T05:11:35Z" user="jptolosa" uid="1975220">
+  <nd ref="454540685"/>
+  <nd ref="454540575"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Cala Cala"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="38449381" visible="true" version="5" changeset="89665380" timestamp="2020-08-20T05:11:35Z" user="jptolosa" uid="1975220">
+  <nd ref="454574313"/>
+  <nd ref="454574372"/>
+  <nd ref="2323800354"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Normandía"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="38449383" visible="true" version="5" changeset="89665380" timestamp="2020-08-20T05:11:35Z" user="jptolosa" uid="1975220">
+  <nd ref="454574372"/>
+  <nd ref="7821597569"/>
+  <nd ref="454574374"/>
+  <nd ref="7821597572"/>
+  <nd ref="7821597571"/>
+  <nd ref="454574379"/>
+  <nd ref="7821597570"/>
+  <nd ref="7821597573"/>
+  <nd ref="454574381"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Pacha"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="38449384" visible="true" version="4" changeset="89547871" timestamp="2020-08-18T04:38:36Z" user="jptolosa" uid="1975220">
+  <nd ref="454574121"/>
+  <nd ref="454574389"/>
+  <nd ref="7816246677"/>
+  <nd ref="454574390"/>
+  <nd ref="7816246676"/>
+  <nd ref="454574391"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Irene"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="38449385" visible="true" version="11" changeset="89556578" timestamp="2020-08-18T07:15:51Z" user="jptolosa" uid="1975220">
+  <nd ref="2323800227"/>
+  <nd ref="2323800409"/>
+  <nd ref="7816246674"/>
+  <nd ref="7816246673"/>
+  <nd ref="7816246675"/>
+  <nd ref="7816246672"/>
+  <nd ref="7816246671"/>
+  <nd ref="2323800357"/>
+  <nd ref="2323800293"/>
+  <nd ref="2324301127"/>
+  <nd ref="454574392"/>
+  <nd ref="7821597575"/>
+  <nd ref="7821597576"/>
+  <nd ref="454574119"/>
+  <nd ref="7821597577"/>
+  <nd ref="7821597574"/>
+  <nd ref="2323800257"/>
+  <nd ref="2323800255"/>
+  <nd ref="7816246667"/>
+  <nd ref="7816246670"/>
+  <nd ref="454574401"/>
+  <nd ref="2323800391"/>
+  <nd ref="7816246669"/>
+  <nd ref="454574407"/>
+  <nd ref="454574409"/>
+  <nd ref="7816246668"/>
+  <nd ref="7816246666"/>
+  <nd ref="454574411"/>
+  <nd ref="454574413"/>
+  <nd ref="7822066816"/>
+  <nd ref="454574415"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="Santa Rosa"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="38449386" visible="true" version="5" changeset="89547871" timestamp="2020-08-18T04:38:36Z" user="jptolosa" uid="1975220">
+  <nd ref="454574401"/>
+  <nd ref="454574391"/>
+  <nd ref="454574422"/>
+  <nd ref="2323800263"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Matillana"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="38449387" visible="true" version="9" changeset="89556578" timestamp="2020-08-18T07:15:51Z" user="jptolosa" uid="1975220">
+  <nd ref="2323800251"/>
+  <nd ref="2323800308"/>
+  <nd ref="2324339813"/>
+  <nd ref="454574431"/>
+  <nd ref="454574415"/>
+  <nd ref="2324339811"/>
+  <nd ref="7822066815"/>
+  <nd ref="7821574065"/>
+  <nd ref="2323800222"/>
+  <nd ref="2323800370"/>
+  <nd ref="7821574062"/>
+  <nd ref="7822066814"/>
+  <nd ref="454574381"/>
+  <nd ref="7821656179"/>
+  <nd ref="7821656175"/>
+  <nd ref="7821656176"/>
+  <nd ref="454574091"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="Tiviliche"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="38449390" visible="true" version="5" changeset="81773281" timestamp="2020-03-04T12:07:07Z" user="felipeeugenio" uid="337684">
+  <nd ref="454574379"/>
+  <nd ref="2323800330"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="name" v="Pasaje Salitrera Magdalena"/>
+ </way>
+ <way id="38449391" visible="true" version="5" changeset="89547871" timestamp="2020-08-18T04:38:36Z" user="jptolosa" uid="1975220">
+  <nd ref="454574413"/>
+  <nd ref="454574485"/>
+  <nd ref="2323800378"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera La Granja"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="38449392" visible="true" version="5" changeset="89547871" timestamp="2020-08-18T04:38:36Z" user="jptolosa" uid="1975220">
+  <nd ref="454574411"/>
+  <nd ref="454574493"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Magdalena"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="38449393" visible="true" version="4" changeset="89547871" timestamp="2020-08-18T04:38:36Z" user="jptolosa" uid="1975220">
+  <nd ref="454574422"/>
+  <nd ref="7816878936"/>
+  <nd ref="7816878935"/>
+  <nd ref="454574508"/>
+  <nd ref="7816878934"/>
+  <nd ref="454574513"/>
+  <nd ref="7816878933"/>
+  <nd ref="454574493"/>
+  <nd ref="454574485"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje San Agustín"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="38449394" visible="true" version="6" changeset="89547871" timestamp="2020-08-18T04:38:36Z" user="jptolosa" uid="1975220">
+  <nd ref="454574513"/>
+  <nd ref="2323800288"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Magdalena"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="38449395" visible="true" version="5" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220">
+  <nd ref="2323800335"/>
+  <nd ref="454574392"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Gracia"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="38449396" visible="true" version="6" changeset="89665380" timestamp="2020-08-20T05:11:35Z" user="jptolosa" uid="1975220">
+  <nd ref="454574125"/>
+  <nd ref="2324301069"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera María Encarnación"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223480453" visible="true" version="18" changeset="130871316" timestamp="2023-01-04T15:14:03Z" user="felipeeugenio" uid="337684">
+  <nd ref="2323800249"/>
+  <nd ref="7821659697"/>
+  <nd ref="2323800337"/>
+  <nd ref="7821659726"/>
+  <nd ref="2323800290"/>
+  <nd ref="7821659729"/>
+  <nd ref="2323800297"/>
+  <nd ref="7809508765"/>
+  <nd ref="7821659721"/>
+  <nd ref="2323800399"/>
+  <nd ref="7821659718"/>
+  <nd ref="7811116451"/>
+  <nd ref="2324301104"/>
+  <nd ref="2324301089"/>
+  <nd ref="2323800235"/>
+  <nd ref="7816504170"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="Avenida Pampa Unión"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223480471" visible="true" version="4" changeset="89547871" timestamp="2020-08-18T04:38:36Z" user="jptolosa" uid="1975220">
+  <nd ref="2323800316"/>
+  <nd ref="2323800391"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Matillana"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223480473" visible="true" version="14" changeset="130871316" timestamp="2023-01-04T15:14:03Z" user="felipeeugenio" uid="337684">
+  <nd ref="2323800395"/>
+  <nd ref="2323800239"/>
+  <nd ref="7816558684"/>
+  <nd ref="7816246629"/>
+  <nd ref="7816246628"/>
+  <nd ref="7821659719"/>
+  <nd ref="2323800363"/>
+  <nd ref="7821659720"/>
+  <nd ref="454540678"/>
+  <nd ref="7809508763"/>
+  <nd ref="7809508764"/>
+  <nd ref="2324339803"/>
+  <nd ref="7821659728"/>
+  <nd ref="454540580"/>
+  <nd ref="7821659727"/>
+  <nd ref="454540575"/>
+  <nd ref="7821659696"/>
+  <nd ref="454540567"/>
+  <nd ref="7821659699"/>
+  <nd ref="7821574047"/>
+  <nd ref="454540566"/>
+  <nd ref="7821574048"/>
+  <nd ref="9033367116"/>
+  <nd ref="7821574059"/>
+  <nd ref="454574057"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="Avenida Pampa Unión"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223540714" visible="true" version="3" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220">
+  <nd ref="2324301071"/>
+  <nd ref="2324301131"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Gracia"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223540716" visible="true" version="3" changeset="89665380" timestamp="2020-08-20T05:11:35Z" user="jptolosa" uid="1975220">
+  <nd ref="2324301094"/>
+  <nd ref="2324301069"/>
+  <nd ref="7828366348"/>
+  <nd ref="7828366349"/>
+  <nd ref="7828366347"/>
+  <nd ref="2324301075"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Slavia"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223540720" visible="true" version="3" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220">
+  <nd ref="2324301127"/>
+  <nd ref="2324301114"/>
+  <nd ref="2324301119"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Sacramento"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223540722" visible="true" version="4" changeset="89719778" timestamp="2020-08-21T04:17:27Z" user="jptolosa" uid="1975220">
+  <nd ref="454574315"/>
+  <nd ref="7816455647"/>
+  <nd ref="7816455646"/>
+  <nd ref="454574317"/>
+  <nd ref="7816455645"/>
+  <nd ref="7816455644"/>
+  <nd ref="454574319"/>
+  <nd ref="2324301075"/>
+  <nd ref="7831126662"/>
+  <nd ref="7831126661"/>
+  <nd ref="7831126660"/>
+  <nd ref="454574091"/>
+  <tag k="alt_name" v="Calle Cuatro"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="Calle 4"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223540726" visible="true" version="3" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220">
+  <nd ref="2324301113"/>
+  <nd ref="2324301074"/>
+  <nd ref="2324301118"/>
+  <nd ref="2324301072"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Trinidad"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223540730" visible="true" version="3" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220">
+  <nd ref="2324301112"/>
+  <nd ref="2324301067"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Trinidad"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223540735" visible="true" version="3" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220">
+  <nd ref="2324301066"/>
+  <nd ref="2324301101"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Sacramento"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223540738" visible="true" version="3" changeset="89666771" timestamp="2020-08-20T05:39:09Z" user="jptolosa" uid="1975220">
+  <nd ref="2323800338"/>
+  <nd ref="7828451051"/>
+  <nd ref="7828451053"/>
+  <nd ref="2324301111"/>
+  <nd ref="2324301123"/>
+  <nd ref="2324301072"/>
+  <nd ref="2323800267"/>
+  <nd ref="7828451044"/>
+  <nd ref="7828451046"/>
+  <nd ref="454574124"/>
+  <nd ref="7828451045"/>
+  <nd ref="7828451043"/>
+  <nd ref="454574313"/>
+  <nd ref="454574315"/>
+  <tag k="alt_name" v="Calle Cuatro"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="Calle 4"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223540742" visible="true" version="3" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220">
+  <nd ref="2324301088"/>
+  <nd ref="2324301111"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Puntunchara"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223540746" visible="true" version="3" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220">
+  <nd ref="2324301118"/>
+  <nd ref="2324301101"/>
+  <nd ref="2324301131"/>
+  <nd ref="2324301130"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Yungay Bajo"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223540751" visible="true" version="4" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220">
+  <nd ref="2324301103"/>
+  <nd ref="7816504174"/>
+  <nd ref="7816504173"/>
+  <nd ref="7816504175"/>
+  <nd ref="7816504172"/>
+  <nd ref="2324301121"/>
+  <nd ref="7828184673"/>
+  <nd ref="2324301078"/>
+  <nd ref="7828184672"/>
+  <nd ref="2324301107"/>
+  <nd ref="2324301109"/>
+  <nd ref="2324301099"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera María Encarnación"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223540752" visible="true" version="3" changeset="89665380" timestamp="2020-08-20T05:11:35Z" user="jptolosa" uid="1975220">
+  <nd ref="2324301126"/>
+  <nd ref="2324301087"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera María Encarnación"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223540754" visible="true" version="3" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220">
+  <nd ref="2324301132"/>
+  <nd ref="2324301088"/>
+  <nd ref="2324301074"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Yungay Bajo"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="223540755" visible="true" version="3" changeset="89662496" timestamp="2020-08-20T04:03:40Z" user="jptolosa" uid="1975220">
+  <nd ref="2324301123"/>
+  <nd ref="2324301109"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Rincón"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="502169162" visible="true" version="4" changeset="111781856" timestamp="2021-09-27T18:16:36Z" user="felipeeugenio" uid="337684">
+  <nd ref="4927315548"/>
+  <nd ref="4927315549"/>
+  <nd ref="4927315550"/>
+  <nd ref="4927315551"/>
+  <nd ref="4927315548"/>
+  <tag k="addr:city" v="ALTO HOSPICIO"/>
+  <tag k="addr:street" v="Avenida La Pampa"/>
+  <tag k="amenity" v="kindergarten"/>
+  <tag k="name" v="Tortuguitas"/>
+  <tag k="nohousenumber" v="yes"/>
+ </way>
+ <way id="560567765" visible="true" version="3" changeset="81475686" timestamp="2020-02-25T23:47:41Z" user="Awo" uid="196556">
+  <nd ref="5406011437"/>
+  <nd ref="7243648133"/>
+  <nd ref="7243648132"/>
+  <nd ref="5406011438"/>
+  <nd ref="5406011439"/>
+  <nd ref="5406011440"/>
+  <nd ref="5406011441"/>
+  <nd ref="5406011437"/>
+  <tag k="landuse" v="recreation_ground"/>
+ </way>
+ <way id="560567766" visible="true" version="3" changeset="89665380" timestamp="2020-08-20T05:11:35Z" user="jptolosa" uid="1975220">
+  <nd ref="2323800337"/>
+  <nd ref="2324301099"/>
+  <nd ref="2324301126"/>
+  <nd ref="2323800267"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Salitrera Cala Cala"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="618996404" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:09Z" user="ravmn" uid="4123703">
+  <nd ref="5849965685"/>
+  <nd ref="5849965686"/>
+  <nd ref="5849965687"/>
+  <nd ref="5849965688"/>
+  <nd ref="5849965685"/>
+  <tag k="leisure" v="pitch"/>
+ </way>
+ <way id="618996406" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:09Z" user="ravmn" uid="4123703">
+  <nd ref="5849965689"/>
+  <nd ref="5849965690"/>
+  <nd ref="5849965691"/>
+  <nd ref="5849965692"/>
+  <nd ref="5849965689"/>
+  <tag k="building" v="house"/>
+ </way>
+ <way id="618996408" visible="true" version="1" changeset="61903476" timestamp="2018-08-22T22:13:09Z" user="ravmn" uid="4123703">
+  <nd ref="5849965693"/>
+  <nd ref="5849965694"/>
+  <nd ref="5849965695"/>
+  <nd ref="5849965696"/>
+  <nd ref="5849965693"/>
+  <tag k="leisure" v="pitch"/>
+ </way>
+ <way id="619341470" visible="true" version="2" changeset="81475686" timestamp="2020-02-25T23:47:41Z" user="Awo" uid="196556">
+  <nd ref="5852845746"/>
+  <nd ref="5852845747"/>
+  <nd ref="5852845748"/>
+  <nd ref="5852845749"/>
+  <nd ref="5852845746"/>
+  <tag k="leisure" v="park"/>
+ </way>
+ <way id="836940615" visible="true" version="5" changeset="130871316" timestamp="2023-01-04T15:14:03Z" user="felipeeugenio" uid="337684">
+  <nd ref="2323800386"/>
+  <nd ref="7821574070"/>
+  <nd ref="2323800335"/>
+  <nd ref="2324301119"/>
+  <nd ref="2324301067"/>
+  <nd ref="2324301128"/>
+  <nd ref="7821610230"/>
+  <nd ref="2323800324"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="Avenida La Pampa"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="836940617" visible="true" version="5" changeset="130871316" timestamp="2023-01-04T15:14:03Z" user="felipeeugenio" uid="337684">
+  <nd ref="2323800360"/>
+  <nd ref="7821610231"/>
+  <nd ref="2324301113"/>
+  <nd ref="2324301066"/>
+  <nd ref="2324301071"/>
+  <nd ref="7821574071"/>
+  <nd ref="2323800250"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="Avenida La Pampa"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="836940619" visible="true" version="2" changeset="89665380" timestamp="2020-08-20T05:11:35Z" user="jptolosa" uid="1975220">
+  <nd ref="2323800407"/>
+  <nd ref="454574374"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Pasaje Matillana"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="838028822" visible="true" version="2" changeset="130871316" timestamp="2023-01-04T15:14:03Z" user="felipeeugenio" uid="337684">
+  <nd ref="2323800344"/>
+  <nd ref="7821574055"/>
+  <nd ref="7821574061"/>
+  <nd ref="2323800349"/>
+  <nd ref="5406011445"/>
+  <nd ref="2323800336"/>
+  <nd ref="2324339787"/>
+  <nd ref="7326288694"/>
+  <nd ref="7816287293"/>
+  <nd ref="2323800268"/>
+  <nd ref="7816287295"/>
+  <nd ref="2323800306"/>
+  <nd ref="7816287294"/>
+  <nd ref="7821574066"/>
+  <nd ref="2323800222"/>
+  <nd ref="7821574064"/>
+  <nd ref="2323800378"/>
+  <nd ref="2323800288"/>
+  <nd ref="7811116440"/>
+  <nd ref="2323800348"/>
+  <nd ref="7811116439"/>
+  <nd ref="7811116438"/>
+  <nd ref="2323800263"/>
+  <nd ref="7811116436"/>
+  <nd ref="7811116437"/>
+  <nd ref="7821574068"/>
+  <nd ref="2323800386"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="Avenida La Pampa"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="838028825" visible="true" version="4" changeset="130871316" timestamp="2023-01-04T15:14:03Z" user="felipeeugenio" uid="337684">
+  <nd ref="2323800250"/>
+  <nd ref="7821574069"/>
+  <nd ref="2323800354"/>
+  <nd ref="7811116433"/>
+  <nd ref="7811116434"/>
+  <nd ref="7811116435"/>
+  <nd ref="2323800407"/>
+  <nd ref="7811116444"/>
+  <nd ref="7811116443"/>
+  <nd ref="2323800415"/>
+  <nd ref="7811116442"/>
+  <nd ref="7811116441"/>
+  <nd ref="2323800330"/>
+  <nd ref="7821574063"/>
+  <nd ref="2323800370"/>
+  <nd ref="7821574067"/>
+  <nd ref="7816287292"/>
+  <nd ref="5406011432"/>
+  <nd ref="7816287291"/>
+  <nd ref="2323800364"/>
+  <nd ref="7821656172"/>
+  <nd ref="2324339773"/>
+  <nd ref="7816455663"/>
+  <nd ref="7816455662"/>
+  <nd ref="2323800368"/>
+  <nd ref="7816455661"/>
+  <nd ref="7816455660"/>
+  <nd ref="9033409019"/>
+  <nd ref="7816455659"/>
+  <nd ref="2323800313"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="Avenida La Pampa"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="838028828" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220">
+  <nd ref="7821574071"/>
+  <nd ref="7821574070"/>
+  <tag k="footway" v="crossing"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="838028829" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220">
+  <nd ref="7821574069"/>
+  <nd ref="7821574068"/>
+  <tag k="footway" v="crossing"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <relation id="11515379" visible="true" version="1" changeset="89545409" timestamp="2020-08-18T03:34:22Z" user="jptolosa" uid="1975220">
+  <member type="way" ref="838028820" role="from"/>
+  <member type="way" ref="838028824" role="to"/>
+  <member type="node" ref="2323800313" role="via"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+</osm>

@@ -1,0 +1,36 @@
+/*****************/
+/* GLOBAL STYLES */
+/*****************/
+
+:root {
+    --primary-bg-color: rgb(55, 192, 193);
+    --primary-bg-color-dark: rgb(19, 116, 157);
+    --transparent-bg-color-dark: rgba(19, 116, 157, .7);
+    --secondary-bg-color: rgb(139, 188, 121);
+}
+
+html, body {
+    font-family: 'Poppins';
+    margin: 0;
+    padding: 0;
+    
+    .section-container {
+        padding: 0 20%;
+        color: #f1f1f1;
+    }
+}
+
+body {
+    background-color: var(--secondary-bg-color);
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('./assets/fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-weight: bold;
+    src: url('./assets/fonts/Poppins-Bold.ttf');
+}
