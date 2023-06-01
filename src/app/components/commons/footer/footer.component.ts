@@ -2,6 +2,7 @@ import { Component, OnInit, AfterViewInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import * as L from 'leaflet';
 import { faFacebook, faInstagram, faTwitter, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { faPhone, faAt } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-footer',
@@ -15,7 +16,9 @@ export class FooterComponent implements OnInit, AfterViewInit {
   faFacebook = faFacebook;
   faInstagram = faInstagram;
   faTwitter = faTwitter;
-
+  faPhone = faPhone;
+  faAt = faAt;
+  
   constructor(
     private http: HttpClient
   ) { }

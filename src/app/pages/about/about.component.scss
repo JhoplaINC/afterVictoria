@@ -23,6 +23,30 @@
     .description-container {
         margin: 0 auto 4em;
         width: 100%;
+
+        .slider-container {
+            height: 50vh;
+
+            swiper-container {
+                height: 100%;
+
+                swiper-slide {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    height: 100%;
+
+                    img {
+                        height: 90%;
+
+                        // Mobile
+                        @media screen and (max-width: 480px) {
+                            width: 100%;
+                        }
+                    }
+                }
+            }
+        }
     }
 
     .section-subtitle {

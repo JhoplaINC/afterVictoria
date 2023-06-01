@@ -1,7 +1,7 @@
 <app-header></app-header>
 
 <div class="section-container">
-    <div class="services-section">
+    <section class="services-section">
         <h1 class="section-title">Nuestros servicios</h1>
         <div class="description-container">
             <p class="description-text">
@@ -95,7 +95,29 @@
                 desarrollo. Este alimento debe ser enviado en envase térmico y será servido a la hora correspondiente
             </p>
         </div>
-    </div>
+        <h2 class="section-subtitle">
+            Transporte
+        </h2>
+        <div class="description-container">
+            <p class="description-text">
+                Contamos con nuestra propia movilización privada
+            </p>
+            <div class="slider-container">
+                <swiper-container appSwiperDirective [config]="config" class="container">
+                    <swiper-slide class="single-item">
+                        <img src="./assets/images/transporte1.jpeg" alt="Patio principal">
+                    </swiper-slide>
+                    <swiper-slide class="single-item">
+                        <img src="./assets/images/transporte2.jpeg" alt="Patio principal">
+                    </swiper-slide>
+    
+                    <swiper-slide class="single-item">
+                        <img src="./assets/images/transporte3.jpeg" alt="Sala niños">
+                    </swiper-slide>
+                </swiper-container>
+            </div>
+        </div>
+    </section>
 </div>
 
 <app-footer></app-footer>
